@@ -1,0 +1,25 @@
+{
+  "name": "reactanim",
+  "version": "1.0.0",
+  "description": "simple animatino for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimcoder/reactanim.git"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "npm",
+    "svg"
+  ],
+  "author": "taras kovtun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grimcoder/reactanim/issues"
+  },
+  "homepage": "https://github.com/grimcoder/reactanim#readme"
+}
